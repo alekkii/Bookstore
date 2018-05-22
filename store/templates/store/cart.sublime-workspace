@@ -1,0 +1,804 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"te",
+				"text-decoration-style"
+			],
+			[
+				"co",
+				"complete_order"
+			],
+			[
+				"pro",
+				"process_order"
+			],
+			[
+				"re",
+				"redirect"
+			],
+			[
+				"t",
+				"timezone"
+			],
+			[
+				"o",
+				"order"
+			],
+			[
+				"cart",
+				"cart"
+			],
+			[
+				"payme",
+				"payment_id"
+			],
+			[
+				"pay",
+				"payer"
+			],
+			[
+				"pa",
+				"payment_id"
+			],
+			[
+				"P",
+				"Payment"
+			],
+			[
+				"c",
+				"context"
+			],
+			[
+				"B",
+				"BookOrder"
+			],
+			[
+				"ob",
+				"objects"
+			],
+			[
+				"pr",
+				"processor"
+			],
+			[
+				"redirect_",
+				"redirect_url"
+			],
+			[
+				"sa",
+				"save"
+			],
+			[
+				"ca",
+				"cart"
+			],
+			[
+				"paym",
+				"payment_id"
+			],
+			[
+				"orde",
+				"order"
+			],
+			[
+				"ite",
+				"item"
+			],
+			[
+				"it",
+				"items"
+			],
+			[
+				"redire",
+				"redirect_url"
+			],
+			[
+				"i",
+				"item"
+			],
+			[
+				"orer",
+				"orders"
+			],
+			[
+				"f",
+				"filter"
+			],
+			[
+				"de",
+				"detail"
+			],
+			[
+				"use",
+				"user"
+			],
+			[
+				"a",
+				"auth"
+			],
+			[
+				"b",
+				"bookstore"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"add",
+				"add_to_cart"
+			],
+			[
+				"car",
+				"cart_value"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"C",
+				"Cart"
+			],
+			[
+				"object",
+				"ObjectDoesNotExist"
+			],
+			[
+				"d",
+				"django"
+			],
+			[
+				"e",
+				"else"
+			],
+			[
+				"boo",
+				"book"
+			],
+			[
+				"pe",
+				"preexisting_order"
+			],
+			[
+				"book",
+				"book_id"
+			],
+			[
+				"pre",
+				"preexisting_order"
+			],
+			[
+				"p",
+				"preexisting_order"
+			],
+			[
+				"Boo",
+				"BookOrder"
+			],
+			[
+				"ty",
+				"try\tTry/Except/Else/Finally"
+			],
+			[
+				"det",
+				"detail_book_img"
+			],
+			[
+				"col",
+				"col-md-offset-2"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"block",
+				"inline-block"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"st",
+				"store"
+			],
+			[
+				"form",
+				"form-group"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"ur",
+				"url"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"dete",
+				"detail_book_reviews_title"
+			],
+			[
+				"s",
+				"src\tAttr"
+			],
+			[
+				"mi",
+				"min-height"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"D",
+				"DateField"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"na",
+				"navbar"
+			],
+			[
+				"EM",
+				"EMAIL_HOST"
+			],
+			[
+				"T",
+				"True"
+			],
+			[
+				"TEM",
+				"TEMPLATE_DIR"
+			],
+			[
+				"from",
+				"form_class"
+			],
+			[
+				"U",
+				"UserForm"
+			],
+			[
+				"wi",
+				"Wigss_name"
+			],
+			[
+				"Wig",
+				"wig_name"
+			],
+			[
+				"all",
+				"all_products"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"A",
+				"Afro_kinky"
+			],
+			[
+				"S",
+				"SongCreateView"
+			],
+			[
+				"bt",
+				"btn"
+			],
+			[
+				"backgr",
+				"background-position"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"M",
+				"MEDIA_ROOT"
+			],
+			[
+				"gy",
+				"glyphicon-music"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"n",
+				"DoesNotExist"
+			],
+			[
+				"album",
+				"album_id"
+			],
+			[
+				"al",
+				"Album"
+			],
+			[
+				"albu",
+				"album"
+			],
+			[
+				"get",
+				"get_object_or_404"
+			],
+			[
+				"album_",
+				"album_title"
+			],
+			[
+				"BA",
+				"BASE_DIR"
+			],
+			[
+				"g",
+				"glyphicon-remove"
+			],
+			[
+				"post",
+				"post_remove"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"post_",
+				"post_pk"
+			],
+			[
+				"comment",
+				"comment_approve"
+			],
+			[
+				"comme",
+				"commment"
+			],
+			[
+				"login",
+				"Login_required"
+			],
+			[
+				"get_",
+				"get_object_or_404"
+			],
+			[
+				"logi",
+				"login"
+			],
+			[
+				"L",
+				"ListView"
+			],
+			[
+				"po",
+				"Post"
+			],
+			[
+				"De",
+				"DeleteView"
+			],
+			[
+				"text",
+				"textinputclass"
+			],
+			[
+				"app",
+				"approved_comment"
+			],
+			[
+				"auth",
+				"author"
+			],
+			[
+				"sch",
+				"School"
+			],
+			[
+				"con",
+				"context"
+			],
+			[
+				"mode",
+				"models"
+			],
+			[
+				"profile",
+				"profile_form"
+			],
+			[
+				"v",
+				"value"
+			],
+			[
+				"TE",
+				"TEMPLATE_DIR"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"for",
+				"forms"
+			],
+			[
+				"pop",
+				"populating"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"we",
+				"webpg"
+			],
+			[
+				"fake_",
+				"fake_name"
+			],
+			[
+				"fa",
+				"fake"
+			],
+			[
+				"top",
+				"topic"
+			],
+			[
+				"fake",
+				"fakegen"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/ALEKY/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/ALEKY/udemy/bookstore/bookstore/settings.py",
+		"/C/Users/ALEKY/udemy/bookstore/store/forms.py",
+		"/C/Users/ALEKY/udemy/bookstore/store/templates/store/login.html",
+		"/C/Users/ALEKY/udemy/bookstore/store/templates/store/base_visitor.html",
+		"/C/Users/ALEKY/udemy/bookstore/store/templates/template.html",
+		"/C/Users/ALEKY/udemy/bookstore/store/urls.py",
+		"/C/Users/ALEKY/udemy/bookstore/store/views.py",
+		"/C/Users/ALEKY/udemy/bookstore/store/templates/store/cart.html",
+		"/C/Users/ALEKY/udemy/bookstore/store/templates/store/order_complete.html",
+		"/C/Users/ALEKY/udemy/bookstore/store/templates/store/order_error.html",
+		"/C/alekii softwares/Webdesign/Viberr-master/music/views.py",
+		"/C/Users/ALEKY/udemy/bookstore/store/models.py",
+		"/C/Users/ALEKY/udemy/bookstore/store/templates/store/form_template.html",
+		"/C/Users/ALEKY/udemy/bookstore/store/templates/store/register.html",
+		"/C/Users/ALEKY/udemy/bookstore/store/templates/base.html",
+		"/C/Users/ALEKY/udemy/bookstore/store/admin.py",
+		"/C/Users/ALEKY/udemy/bookstore/store/templates/registration/registration/logout.html",
+		"/C/Users/ALEKY/udemy/bookstore/store/templates/registration/registration/login.html",
+		"/C/Users/ALEKY/Documents/Working Files/Chapter 03/chap3ex1.py",
+		"/C/Users/ALEKY/udemy/bookstore/store/templates/registration/activate.html",
+		"/C/Users/ALEKY/udemy/bookstore/store/templates/store/book_details.html",
+		"/C/Users/ALEKY/udemy/bookstore/store/templates/store/detail.html",
+		"/C/Users/ALEKY/udemy/bookstore/store/static/base/css/style.css",
+		"/C/Users/ALEKY/udemy/bookstore/store/templates/registration/activation_complete.html",
+		"/C/Users/ALEKY/udemy/bookstore/store/migrations/0005_auto_20180409_1058.py",
+		"/C/Users/ALEKY/Ecommerce/Ecommerce/settings.py",
+		"/C/Users/ALEKY/udemy/bookstore/store/templates/registration/registration_form.html",
+		"/C/Users/ALEKY/udemy/bookstore/store/templates/home.html",
+		"/C/Users/ALEKY/udemy/bookstore/static/base/css/style.css",
+		"/C/Users/ALEKY/udemy/bookstore/bookstore/urls.py",
+		"/C/alekii softwares/Webdesign/banner1/Programs/django-registration-templates-master/registration/password_reset_email.html",
+		"/C/alekii softwares/Webdesign/banner1/Programs/django-registration-templates-master/registration/login.html",
+		"/C/alekii softwares/Webdesign/banner1/Programs/django-registration-templates-master/base.html",
+		"/C/alekii softwares/Webdesign/Viberr-master/website/settings.py",
+		"/C/Users/ALEKY/udemy/bookstore/store/templates/registration/login.html",
+		"/C/Users/ALEKY/udemy/bookstore/store/templates/registration/activate_email.txt",
+		"/C/Users/ALEKY/udemy/bookstore/store/templates/registration/activation_email.txt",
+		"/C/Users/ALEKY/udemy/bookstore/store/templates/registration/activation_email_subject.txt",
+		"/C/Users/ALEKY/udemy/bookstore/store/templates/registration/logout.html",
+		"/C/Users/ALEKY/udemy/bookstore/store/templates/registration/registration_complete.html",
+		"/C/Users/ALEKY/udemy/bookstore/manage.py",
+		"/C/alekii softwares/Webdesign/Viberr-master/music/templates/music/login.html",
+		"/C/Users/ALEKY/Ecommerce/Afro_kinky/templates/Afro_kinky/form_template.html",
+		"/C/Users/ALEKY/Ecommerce/Ecommerce/urls.py",
+		"/C/Users/ALEKY/Ecommerce/Afro_kinky/templates/Afro_kinky/index.html",
+		"/C/Users/ALEKY/Ecommerce/Afro_kinky/templates/Afro_kinky/product_form.html",
+		"/C/Users/ALEKY/Ecommerce/Afro_kinky/templates/Afro_kinky/detail.html",
+		"/C/alekii softwares/Webdesign/Viberr-master/music/templates/music/detail.html",
+		"/C/Users/ALEKY/django-bucky/website/music/templates/music/album_form.html",
+		"/C/Users/ALEKY/Ecommerce/Afro_kinky/templates/Afro_kinky/create_product.html",
+		"/C/Users/ALEKY/Ecommerce/Afro_kinky/templates/Afro_kinky/base.html",
+		"/C/Users/ALEKY/Ecommerce/Afro_kinky/forms.py",
+		"/C/Users/ALEKY/Ecommerce/Afro_kinky/urls.py",
+		"/C/Users/ALEKY/Ecommerce/Afro_kinky/static/Afro_kinky/Style.css",
+		"/C/Users/ALEKY/Ecommerce/Afro_kinky/templates/Afro_kinky/login.html",
+		"/C/Users/ALEKY/Ecommerce/Afro_kinky/templates/Afro_kinky/base_visitor.html",
+		"/C/Users/ALEKY/Ecommerce/Afro_kinky/templates/Afro_kinky/registration_form.html",
+		"/C/Users/ALEKY/Ecommerce/Afro_kinky/views.py",
+		"/C/Users/ALEKY/django-bucky/website/website/settings.py",
+		"/C/Users/ALEKY/Ecommerce/Afro_kinky/templates/base.html",
+		"/C/Users/ALEKY/Ecommerce/Afro_kinky/templates/index.html",
+		"/C/alekii softwares/Webdesign/Viberr-master/music/templates/music/index.html",
+		"/C/Users/ALEKY/Ecommerce/Afro_kinky/models.py",
+		"/C/alekii softwares/Webdesign/Viberr-master/music/models.py",
+		"/C/Users/ALEKY/Ecommerce/Afro_kinky/templates/detail.html",
+		"/C/Users/ALEKY/django-bucky/website/music/forms.py",
+		"/C/alekii softwares/Webdesign/Viberr-master/music/forms.py",
+		"/C/alekii softwares/Webdesign/Viberr-master/music/templates/music/create_album.html",
+		"/C/Users/ALEKY/Ecommerce/Afro_kinky/admin.py",
+		"/C/Users/ALEKY/django-bucky/website/music/templates/music/detail.html",
+		"/C/Users/ALEKY/django-bucky/website/music/urls.py",
+		"/C/Users/ALEKY/django-bucky/website/music/views.py",
+		"/C/Users/ALEKY/django-bucky/website/music/templates/music/base.html",
+		"/C/Users/ALEKY/django-bucky/website/music/templates/music/index.html",
+		"/C/Users/ALEKY/Desktop/BoostrapBasics/bootstrap.css",
+		"/C/Users/ALEKY/Ecommerce/Afro_kinky/static/Afro-kinky/Style.css",
+		"/C/Users/ALEKY/django-bucky/website/music/admin.py",
+		"/C/alekii softwares/Webdesign/Viberr-master/requirements.txt",
+		"/C/Users/ALEKY/Dev/Django_Level_One/ProTwo/appTwo/models.py",
+		"/C/Users/ALEKY/Desktop/Django-Python-Full-Stack-Web-Devloper-master/Blog_Clone_Project/blog_project/blog/models.py",
+		"/C/alekii softwares/Webdesign/Viberr-master/music/templates/music/base.html",
+		"/C/alekii softwares/Webdesign/Viberr-master/music/urls.py",
+		"/C/Users/ALEKY/django-bucky/website/website/urls.py",
+		"/C/Users/ALEKY/Ecommerce/Afro_kinky/apps.py",
+		"/C/Users/ALEKY/Ecommerce/Afro_kinky/tests.py",
+		"/C/Users/ALEKY/Ecommerce/urls.py",
+		"/C/Users/ALEKY/django-bucky/website/music/templates/music/songs.html",
+		"/C/Users/ALEKY/django-bucky/website/music/templates/music/create_album.html",
+		"/C/Users/ALEKY/django-bucky/website/music/templates/music/form_template.html",
+		"/C/Users/ALEKY/django-bucky/website/music/templates/music/registration_form.html",
+		"/C/alekii softwares/Webdesign/Viberr-master/music/templates/music/register.html",
+		"/C/Users/ALEKY/django-bucky/website/music/templates/music/register.html",
+		"/C/alekii softwares/Webdesign/Viberr-master/music/templates/music/base_visitor.html",
+		"/C/Users/ALEKY/django-bucky/website/music/templates/music/base_visitor.html",
+		"/C/Users/ALEKY/django-bucky/website/music/templates/music/login.html",
+		"/C/alekii softwares/Webdesign/Viberr-master/music/templates/music/songs.html",
+		"/C/alekii softwares/Webdesign/Viberr-master/website/urls.py",
+		"/C/Users/ALEKY/django-bucky/website/music/models.py",
+		"/C/alekii softwares/Webdesign/Viberr-master/music/templates/music/create_song.html",
+		"/C/Users/ALEKY/django-bucky/website/music/templates/music/create_song.html",
+		"/C/Users/ALEKY/Desktop/BoostrapBasics/bostrp.html",
+		"/C/Users/ALEKY/Desktop/Bootstrap Get Started_files/translateelement.css",
+		"/C/Users/ALEKY/Desktop/Bootstrap Get Started_files/w3.css",
+		"/C/Users/ALEKY/Desktop/Bootstrap Get Started_files/w3-fix.css",
+		"/C/Users/ALEKY/Desktop/Bootstrap Get Started_files/default.css",
+		"/C/Users/ALEKY/Desktop/Bootstrap Get Started_files/default+en.css",
+		"/C/Users/ALEKY/Desktop/Viberr-master/music/templates/music/base.html",
+		"/C/Users/ALEKY/django-bucky/website/music/static/music/bootstrap.css",
+		"/C/Users/ALEKY/django-bucky/website/music/static/music/style.css",
+		"/C/Users/ALEKY/django-bucky/website/music/static/music/images/background.png",
+		"/C/Users/ALEKY/django-bucky/website/music/templates/music/bootstrap.css.css",
+		"/C/Users/ALEKY/Desktop/Viberr-master/music/views.py",
+		"/C/Users/ALEKY/Desktop/Viberr-master/music/urls.py",
+		"/C/Users/ALEKY/Desktop/Viberr-master/music/templates/music/form_template.html",
+		"/C/Users/ALEKY/Desktop/Viberr-master/music/templates/music/index.html",
+		"/C/Users/ALEKY/django-bucky/website/music/static/music/forms.py",
+		"/C/Users/ALEKY/django-bucky/website/music/static/music/styles.css",
+		"/C/Users/ALEKY/Desktop/Viberr-master/music/templates/music/create_album.html",
+		"/C/Users/ALEKY/django-bucky/media/5.jpg",
+		"/C/alekii softwares/Webdesign/Viberr-master/media/Green-Day-American-Idiot-album-cover.jpg",
+		"/C/Users/ALEKY/AppData/Local/Temp/Rar$DIa0.977/models.py",
+		"/C/alekii softwares/Webdesign/Viberr-master/media/43.jpg",
+		"/C/alekii softwares/Webdesign/Viberr-master/media/5.jpg",
+		"/C/alekii softwares/Webdesign/Viberr-master/media/adele.png",
+		"/C/alekii softwares/Webdesign/Viberr-master/media/adele_Pdxbhmu.png",
+		"/C/alekii softwares/Webdesign/Viberr-master/media/americanpie.jpg",
+		"/C/alekii softwares/Webdesign/Viberr-master/media/cash.jpg"
+	],
+	"find":
+	{
+		"height": 52.0
+	},
+	"find_in_files":
+	{
+		"height": 134.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "cart.sublime-project",
+	"replace":
+	{
+		"height": 53.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 281.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

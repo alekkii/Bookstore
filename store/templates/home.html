@@ -1,0 +1,87 @@
+
+
+{% extends 'base.html' %}
+{% load staticfiles %}
+{% block body%}
+<body background="{% static 'base/img/background.png' %}">
+
+
+
+    <!--<nav class ="navbar navbar-inverse navbar-fixed-top">
+        <div class ="container-fluid">
+            <div class ="navbar-header">
+            	<button type="button" class ="navbar-toggle"
+            	 data-toggle ="collapse" data-target="#navbar">
+            	 	<span class ="icon-bar"></span>
+            	 	<span class ="icon-bar"></span>
+            	 	<span class ="icon-bar"></span>
+            	</button>
+            	<a href="{% url 'template.html' %}" class ="navbar-brand">Mystery Books</a>
+            </div>
+            <div id ="navbar" class="collapse navbar-collapse">
+                <ul class ="nav navbar-nav">
+                	<li class="hvr-curl-top-right"><a href="#">Home</a></li>
+                	<li class="hvr-curl-top-right"><a href="#">About</a></li>
+                	<li class="hvr-curl-top-right"><a href="#">Contact</a></li>
+                    <form class="navbar-form navbar-left" role="search" method="get" action="#">
+                    <div class="form-group">
+                    <input type="text" class="form-control" name="q" value="{{ request.GET.q }}">
+                    </div>
+                    <button type="submit" class="btn btn-default">Search</button>
+                    </form>
+                </ul>
+                <div class ="nav-form pull-right ">
+
+                    {% if request.user.is_authenticated %}
+                    <h4 style="background: grey">
+    	            Welcome,{% if request.user.first_name %}
+    	            {{request.user.first_name }}
+    	            {% else %}
+    	            {{ request.user.username }}
+    	            {% endif %}! <a href="#">Log Out</a>
+                    </h4>
+                    {% else %}
+                        Welcome,mysterious person<a href="#"></a> or <a href="#">Register</a>
+                        
+                    {% endif %}
+                </div>
+           </div>
+        	
+        </div>
+    	
+    </nav>-->
+    <div class="container-fluid">
+    <img src="#" class="bg" />
+        <div class="parallax">
+            <div class="row">
+    
+                {% block body %}
+
+                <div class="col-md-8 col-md-offset-2 col-sm-12 maincontent"></div><div style="text-align:center;">
+                <div class="jumbotron"><h3>Welcome to our store</h3></div>
+                {% for book in books %}
+                <div class ="storefront_book_display">
+                    <a href="{% url 'store:book_details' book_id %}">
+                    <img src="{% static 'base/img/baron-fig-189128-unsplash.jpg' %}"  class="img-responsive" >
+                    <span class="storefront_book_title">{{book.title}}</span>
+                    <span class="storefront_book_author">{{book.price}}</span>
+                    </a>
+                    
+
+                </div>
+                {% endfor %}
+                {% endblock %}
+        	 
+            </div>
+        </div>
+    </div>
+    <div class ="row text-center navbar footer">
+        <div class ="col-md-12">
+            <p>2015 Mystery books</p>
+        	
+        </div>
+    	
+    </div>
+{% endblock %}
+</body>
+</html>

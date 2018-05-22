@@ -1,0 +1,22 @@
+
+{% extends 'store/base.html' %}
+{% load staticfiles %}
+{% block body %}
+	<title>{% block title %} Welcome to Mystery books {% endblock %}</title>
+</head>
+<body background="#">
+{% if request.user.is_authenticated %}
+    <h4>
+    	Welcome,{% if request.user.first_name %}
+    	{{request.user.first_name }}
+    	{% else %}
+    	{{ request.user.username }}
+    	{% endif %}! <a href="{% url 'store:logout_user' %}">Log Out</a>
+    </h4>
+    {% else %}
+    <h4>Welcome,mysterious person!Would you like to <a href="{% url 'store:login_user '%}"></a>Log In?</h4>
+    {% endif %}
+Welcome to the mystery book store! there are{{ count }} books in stock.User location:
+{% endblock  %}
+</body>
+</html>

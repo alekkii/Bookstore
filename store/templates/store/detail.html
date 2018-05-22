@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+{% load staticfiles %}
+{% block content %}
+<div class="col-md-8 col-md-offset-2 col-md-12 maincontent">
+	<div class="detail_book_display">
+	    <img src="{% static 'base/img/baron-fig-189128-unsplash.jpg' %}" class="img-responsive">
+	    <span class ="detail_book_title">{{book.title}}</span>
+	    <span class ="detail_book_author">{{book.author}}</span>
+	    <div class="detail_book_description">{{book.description}}</div>
+	    <div class="detail_book_reviews_title">Reviews</div>
+	    <div class="detail_book_reviews">
+	        {% if book.reviews %}
+	            {% for review in book.reviews  %}
+	                {{review.text }}
+			    {% endfor %}
+			{% else %}
+			There are no reviews yet!
+	        {% endif %}
+	    </div>
+	</div>
+</div>
+{% endblock %}
